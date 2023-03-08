@@ -1,0 +1,33 @@
+/* Estilo para el encabezado */
+body{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif  ;
+  background:rgb(89, 146, 211)
+    
+}
+head{
+  padding: center; 
+}
+h2 {
+  font-family: Helvetica, sans-serif;
+}
+  section{
+    background-color: rgb(240, 227, 227);
+    color: black;
+    padding: 2rem;
+  }
+  button{
+    font-family:monospace;
+    padding: 1em;
+    bottom: 2rem;
+    
+  }
+  img {
+    padding-left: 90rem;
+    width: 200px;
+    height: 150px;  
+  }
+  h1 {
+    text-emphasis-style: Tilt Prism;
+  }
+  
+  /*
